@@ -4,3 +4,4 @@
 - [ ] When to do interaction and how to know that, interpreting it as well
 - [ ] Revise Concept of Leverage
 - [ ] Difference between * and : when using regression in R
+- [ ] Understand clearly what t-statistic is
