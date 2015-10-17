@@ -1,2 +1,0 @@
-1. Learn how to use and interpret VIF in R
-2. When to use an interaction term 
