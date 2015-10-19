@@ -10,8 +10,10 @@
 - [ ] Patterns of Residuals for Multiple Regression
 - [ ] How to know when to include an interaction term (synergy effect)?
 - [ ] Calculation of SE for Multiple Regression
-- [ ] Degree of Freedom in Detail
+- [x] Degree of Freedom in Detail -- Pg No. 43, 44
 - [ ] F Statistic Formula Meaning for Multiple Regression
 - [ ] Contrast in Qualitative Variable
 - [ ] How to deal with Outliers in Regression
 - [ ] How is variance associated with SE, Confidence Interval and Hypothesis Test
+- [ ] Read the Linear Regression chapter once again
+- [ ] Setup a program for better revisio
