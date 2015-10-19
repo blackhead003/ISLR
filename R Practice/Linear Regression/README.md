@@ -16,4 +16,4 @@
 - [ ] How to deal with Outliers in Regression
 - [ ] How is variance associated with SE, Confidence Interval and Hypothesis Test
 - [ ] Read the Linear Regression chapter once again
-- [ ] Setup a program for better revisio
+- [ ] Setup a program for better revision
