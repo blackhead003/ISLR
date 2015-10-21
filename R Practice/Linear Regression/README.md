@@ -1,9 +1,9 @@
 #TODO for Linear Regression
 
-- [ ] Learn how to use and interpret VIF in R
+- [x] Learn how to use and interpret VIF in R - Pg No. 46, 47, 48
 - [ ] When to do interaction and how to know that, interpreting it as well
-- [ ] Revise Concept of Leverage
-- [ ] Difference between * and : when using regression in R
+- [x] Revise Concept of Leverage - Pg No. 11
+- [x] Difference between * and : when using regression in R
 - [ ] Understand clearly what t-statistic is
 - [ ] Assumption of Linear Regression
 - [ ] Hat Matrix and Studentized Residuals
